@@ -1,3 +1,4 @@
+```
 #define IN1 28 // 핀 번호는 자신의 환경에 맞도록 설정
 #define IN2 29
 #define ENR 10
@@ -53,3 +54,4 @@ void loop()
  
     motor_r(255);
 }
+```
